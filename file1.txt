@@ -1,0 +1,2 @@
+========== Hello People  =========
+		Going with Source Code Management training with GIT 
